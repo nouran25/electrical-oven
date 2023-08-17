@@ -15,5 +15,5 @@ by the tolerance, the electric heater of the oven will then restart. In this cas
 temperature starts to increase again until it reaches the upper limit and then the whole cycle 
 is repeated continuously.
 Note that if the temperature setting is 230C
-The higher limit is 230+0.1*230 = 253C
-The lower limit is 230-0.1*230 = 207C
+The higher limit is 230+0.1*230 = 253C
+The lower limit is 230-0.1*230 = 207C
